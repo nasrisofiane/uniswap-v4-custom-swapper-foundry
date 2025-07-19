@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dependencies/uniswap-v4-core-4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dependencies/uniswap-v4-periphery-4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dependencies/uniswap-v4-periphery-4/lib/permit2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dependencies/uniswap-v4-periphery-4/lib/permit2/lib/forge-gas-snapshot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dependencies/uniswap-v4-periphery-4/lib/permit2/lib/forge-gas-snapshot/lib/forge-std" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dependencies/uniswap-v4-periphery-4/lib/permit2/lib/forge-gas-snapshot/lib/forge-std/lib/ds-test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dependencies/uniswap-v4-periphery-4/lib/permit2/lib/forge-std" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dependencies/uniswap-v4-periphery-4/lib/permit2/lib/forge-std/lib/ds-test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dependencies/uniswap-v4-periphery-4/lib/permit2/lib/openzeppelin-contracts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dependencies/uniswap-v4-periphery-4/lib/permit2/lib/solmate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dependencies/uniswap-v4-periphery-4/lib/permit2/lib/solmate/lib/ds-test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dependencies/uniswap-v4-periphery-4/lib/v4-core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dependencies/uniswap-v4-periphery-4/lib/v4-core/lib/forge-std" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dependencies/uniswap-v4-periphery-4/lib/v4-core/lib/openzeppelin-contracts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dependencies/uniswap-v4-periphery-4/lib/v4-core/lib/openzeppelin-contracts/lib/erc4626-tests" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dependencies/uniswap-v4-periphery-4/lib/v4-core/lib/openzeppelin-contracts/lib/forge-std" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dependencies/uniswap-v4-periphery-4/lib/v4-core/lib/openzeppelin-contracts/lib/forge-std/lib/ds-test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dependencies/uniswap-v4-periphery-4/lib/v4-core/lib/solmate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dependencies/uniswap-v4-periphery-4/lib/v4-core/lib/solmate/lib/ds-test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/forge-std" vcs="Git" />
+  </component>
+</project>
